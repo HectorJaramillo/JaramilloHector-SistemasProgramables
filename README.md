@@ -1,1 +1,4 @@
 # :green_book: SistemasProgramables
+:trophy: [C0.1 Integrar equipos de trabajo](https://github.com/HectorJaramillo/JaramilloHector-SistemasProgramables/blob/master/Blog/C0.1_HectorJaramillo_DreamTeam.md)
+
+:trophy: [C0.2 Cuestionario I4.0](https://github.com/HectorJaramillo/JaramilloHector-SistemasProgramables/blob/master/Blog/C0.2_JaramilloHector_DreamTeam.md)
