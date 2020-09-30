@@ -9,4 +9,4 @@
 
 :trophy: [C1.2 Reto en clase 2](../master/Blog/C1.2_HectorJaramillo_DreamTeam.md)
 
-:trophy: [C1.3 Reto en clase 2](../master/Blog/C1.3_HectorJaramillo_DreamTeam.md)
+:trophy: [C1.3 Circuito Divisor de Voltaje](../master/Blog/C1.3_HectorJaramillo_DreamTeam.md)
