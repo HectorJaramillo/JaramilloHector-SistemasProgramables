@@ -8,3 +8,5 @@
 :trophy: [C1.1 Reto en clase](../master/Blog/C1.1_HectorJaramillo_DreamTeam.md)
 
 :trophy: [C1.2 Reto en clase 2](../master/Blog/C1.2_HectorJaramillo_DreamTeam.md)
+
+:trophy: [C1.3 Reto en clase 2](../master/Blog/C1.3_HectorJaramillo_DreamTeam.md)
