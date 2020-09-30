@@ -1,0 +1,55 @@
+{
+   "local_state": {
+      "multiple_profile_prefs_version": 7
+   },
+   "policy": {
+      "last_statistics_update": "13245470349844211"
+   },
+   "profile": {
+      "info_cache": {
+         "Default": {
+            "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
+            "background_apps": false,
+            "managed_user_id": "",
+            "name": "Primer usuario",
+            "user_name": ""
+         }
+      }
+   },
+   "shutdown": {
+      "num_processes": 0,
+      "num_processes_slow": 0,
+      "type": 0
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1600996749",
+      "launch_count": "1"
+   },
+   "user_experience_metrics": {
+      "client_id": "949CC061-04FA-4E48-BD65-2A52FE2346CC",
+      "client_id_timestamp": "1600996749",
+      "low_entropy_source": 2521,
+      "session_id": 0,
+      "stability": {
+         "breakpad_registration_fail": 0,
+         "breakpad_registration_ok": 0,
+         "crash_count": 0,
+         "debugger_not_present": 0,
+         "debugger_present": 0,
+         "exited_cleanly": true,
+         "incomplete_session_end_count": 0,
+         "last_timestamp_sec": "1600996752",
+         "launch_count": 1,
+         "launch_time_sec": "1600996749",
+         "page_load_count": 0,
+         "renderer_crash_count": 0,
+         "renderer_hang_count": 0,
+         "session_end_completed": true,
+         "stats_buildtime": "1383689962",
+         "stats_version": "31.0.1650.48"
+      }
+   },
+   "was": {
+      "restarted": false
+   }
+}
