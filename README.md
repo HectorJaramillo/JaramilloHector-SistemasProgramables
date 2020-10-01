@@ -10,3 +10,14 @@
 :trophy: [C1.2 Reto en clase 2](../master/Blog/C1.2_HectorJaramillo_DreamTeam.md)
 
 :trophy: [C1.3 Circuito Divisor de Voltaje](../master/Blog/C1.3_HectorJaramillo_DreamTeam.md)
+
+:bomb: [A1.2 Sensor FotoResisteivo](../master/Blog/A1.2_HectorJaramillo_DreamTeam.md)
+
+___
+# ***Acerca de Mi***
+
+## ***Nombre:*** Hector Armando Jaramillo Regino
+
+## ***Correo:*** hector.jaramillo17@tectijuana.edu.mx
+
+## ***Descripcion:*** Actualmente estudio Ing. en Sistemas en el Tecnologico Nacional de Mexico campus Tijuana.
