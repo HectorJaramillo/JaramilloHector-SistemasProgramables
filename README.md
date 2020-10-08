@@ -13,6 +13,8 @@
 
 :trophy: [C1.4 Acondicionador de señal amOP](../master/Blog/C1.4_HectorJaramillo_DreamTeam.md)
 
+:trophy: [C1.5 Tipos de sensores](../master/Blog/C1.5_HectorJaramillo_DreamTeam.md)
+
 :bomb: [A1.2 Sensor  FotoResistivo ](../master/Blog/A1.2_HectorJaramillo_DreamTeam.md)
 
 
