@@ -17,6 +17,7 @@
 
 :bomb: [A1.2 Sensor  FotoResistivo ](../master/Blog/A1.2_HectorJaramillo_DreamTeam.md)
 
+:bomb: [A1.3 Tipos de sensores comerciales ](../master/Blog/A1.3_HectorJaramillo_DreamTeam.md)
 
 
 ___
