@@ -29,6 +29,9 @@
 :trophy: [C2.1 Actuadores y su clasificación](../master/Blog/C2.1_HectorJaramillo_DreamTeam.md)
 
 :trophy: [C2.2 Cuestionario Actuadores Eléctricos](../master/Blog/C2.2_HectorJaramillo_DreamTeam.md)
+
+:trophy: [C2.3 Circuito temporizador 555](../master/Blog/C2.3_HectorJaramillo_DreamTeam.md)
+
 ___
 # ***Acerca de Mi***
 
