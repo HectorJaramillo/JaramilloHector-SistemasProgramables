@@ -32,6 +32,10 @@
 
 :trophy: [C2.3 Circuito temporizador 555](../master/Blog/C2.3_HectorJaramillo_DreamTeam.md)
 
+
+
+:bomb: [A2.1  Investigación sobre actuadores eléctricos ](../master/Blog/A2.1_HectorJaramillo_DreamTeam.md)
+
 ___
 # ***Acerca de Mi***
 
