@@ -36,6 +36,8 @@
 
 :bomb: [A2.1  Investigación sobre actuadores eléctricos ](../master/Blog/A2.1_HectorJaramillo_DreamTeam.md)
 
+:bomb: [A2.2 Circuito temporizador 555 y motor eléctrico](../master/Blog/A2.2_HectorJaramillo_DreamTeam.md)
+
 ___
 # ***Acerca de Mi***
 
