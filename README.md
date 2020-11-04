@@ -38,6 +38,15 @@
 
 :bomb: [A2.2 Circuito temporizador 555 y motor eléctrico](../master/Blog/A2.2_HectorJaramillo_DreamTeam.md)
 
+**Unidad 3**
+
+:trophy: [C3.1 Arduino IDE Salida Digital](../master/Blog/C3.1_HectorJaramillo_DreamTeam.md)
+
+
+:trophy: [C3.2 Arduino IDE Entrada Digital e impresion serial](../master/Blog/C3.1_HectorJaramillo_DreamTeam.md)
+
+
+
 ___
 # ***Acerca de Mi***
 
