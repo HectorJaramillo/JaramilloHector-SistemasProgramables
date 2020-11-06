@@ -48,6 +48,7 @@
 
 :trophy: [C3.3 Arduino IDE Entrada Analoga y funcion serial](../master/Blog/C3.3_HectorJaramillo_DreamTeam.md)
 
+:trophy: [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](../master/Blog/C3.4_HectorJaramillo_DreamTeam.md)
 
 
 ___
