@@ -50,6 +50,10 @@
 
 :trophy: [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](../master/Blog/C3.4_HectorJaramillo_DreamTeam.md)
 
+:trophy: [C3.5 Evaluacion de conceptos de Microcontroladores ](../master/diagramas/C3.5_HectorJaramillo_DreamTeam.md)
+
+:trophy: [C3.6 Arduino IDE, ESP32 y Entrada Analogica](../master/Blog/C3.6_HectorJaramillo_DreamTeam.md)
+
 
 :bomb: [A.3.1 Circuito sensor de deteccion de objetos](../master/Blog/A3.1_HectorJaramillo_DreamTeam.md)
 ___
