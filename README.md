@@ -60,6 +60,8 @@
 
 
 :bomb: [A.3.1 Circuito sensor de deteccion de objetos](../master/Blog/A3.1_HectorJaramillo_DreamTeam.md)
+
+:bomb: [A.3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](../master/Blog/A3.2_HectorJaramillo_DreamTeam.md)
 ___
 # ***Acerca de Mi***
 
