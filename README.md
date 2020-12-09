@@ -70,7 +70,7 @@
 
 :trophy: [ C4.1  Protocolo Bluetooth y el NodeMCU ESP32](../master/Blog/C4.1_HectorJaramillo_DreamTeam.md)
 
-:trophy: [A4.1 Circuito de control para activar y desactivar un motor DC, utilizando NodeMCU ESP32 por medio de Bluetooth](../master/Blog/A4.1_HectorJaramillo_DreamTeam.md)
+:bomb: [A.4.1 Circuito de control para activar y desactivar un motor DC, utilizando NodeMCU ESP32 por medio de Bluetooth](../master/Blog/A4.1_HectorJaramillo_DreamTeam.md)
 
 
 
