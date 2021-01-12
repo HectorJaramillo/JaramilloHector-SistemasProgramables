@@ -79,7 +79,7 @@
 
 **Unidad 5**
 
-:trophy: [Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un actuador](../master/Blog/C5.2_HectorJaramillo_DreamTeam.md)
+:trophy: [C5.2 Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un actuador](../master/Blog/C5.2_HectorJaramillo_DreamTeam.md)
 ___
 # ***Acerca de Mi***
 
