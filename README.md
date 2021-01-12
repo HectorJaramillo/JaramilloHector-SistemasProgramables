@@ -76,6 +76,10 @@
 
 :bomb: [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi](../master/Blog/A4.2_HectorJaramillo_DreamTeam.md)
 
+
+**Unidad 5**
+
+:trophy: [Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un actuador](../master/Blog/C5.2_HectorJaramillo_DreamTeam.md)
 ___
 # ***Acerca de Mi***
 
